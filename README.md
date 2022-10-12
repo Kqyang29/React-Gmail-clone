@@ -1,5 +1,22 @@
 # Getting Started with Create React App and Redux
 
+DataBase
+  - Firebase
+  - Firebase_auth
+  - Firebase_cloud_Firestore
+  
+  
+Feature:
+  - User can SignIn with GoogleSignIn && SignOut by Click Avatar
+  - Click COMPOSE can Pop up a Mail_Text window
+  - User click single MailList can Navigate to the Mail_Page to check the full message
+  - Store the Mail title, subject, Message, timeStamp in Firestore & use Redux to pass value between pages
+  - Store the User Info in Redux and pass those value between pages
+  
+Host URL: https://linkedin-clone-3dccb.web.app
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
