@@ -13,7 +13,7 @@ Feature:
   - Store the Mail title, subject, Message, timeStamp in Firestore & use Redux to pass value between pages
   - Store the User Info in Redux and pass those value between pages
   
-Host URL: https://linkedin-clone-3dccb.web.app
+Host URL: react-gmail-clone-rho.vercel.app
 
 
 
